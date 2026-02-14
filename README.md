@@ -1,1 +1,1 @@
-# YASMINE-ALSHERIF-AI-FROND
+Yasime Elsherif — AI & Frontend Developer passionate about building intelligent systems using Python and Machine Learning while creating modern, interactive web interfaces. Focused on continuous learning, problem solving, and turning ideas into real-world applications.
